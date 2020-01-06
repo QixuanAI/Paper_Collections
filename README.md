@@ -1,12 +1,16 @@
 # Paper Collections
 
-This repo collects influential papers about Artificial Intelligence. Currently it mainly includes base theories and computer visions. It will be extending along with the progress of my learning fields.
-All discussions in [issues](https://github.com/QixuanAI/Paper_Collections/issues) and [supplemental pulls](https://github.com/QixuanAI/Paper_Collections/pulls) are warmly welcome!
-这个仓库会收集人工智能领域有影响力的论文。目前主要收集了一些基础理论与计算机视觉方向的文章。随着我阅读范围的增加，这个仓库也会得到扩充。
-非常欢迎大家在[提问区](https://github.com/QixuanAI/Paper_Collections/issues)参与讨论，同时非常欢迎[补充推送](https://github.com/QixuanAI/Paper_Collections/pulls)！
+This repo collects influential papers about Artificial Intelligence. Currently it mainly includes base theories and computer visions. It will be extending along with the progress of my learning fields.  
+All discussions in [issues](https://github.com/QixuanAI/Paper_Collections/issues) and [supplemental pulls](https://github.com/QixuanAI/Paper_Collections/pulls) are warmly welcome!  
 
-Along with papers added, the [Wiki](https://github.com/QixuanAI/Paper_Collections/wiki) will be updating.
-在不断增加新文章的同时，论文[Wiki知识库](https://github.com/QixuanAI/Paper_Collections/wiki)也会随之更新。
+这个仓库会收集人工智能领域有影响力的论文。目前主要收集了一些基础理论与计算机视觉方向的文章。随着我阅读范围的增加，这个仓库也会得到扩充。  
+非常欢迎大家在[提问区](https://github.com/QixuanAI/Paper_Collections/issues)参与讨论，同时非常欢迎[补充推送](https://github.com/QixuanAI/Paper_Collections/pulls)！  
+
+---
+
+Along with papers added, the [Wiki](https://github.com/QixuanAI/Paper_Collections/wiki) will be updating.  
+
+在不断增加新文章的同时，本仓库的[Wiki知识库](https://github.com/QixuanAI/Paper_Collections/wiki)也会随之更新。  
 
 # Important Tip
 
